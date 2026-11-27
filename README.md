@@ -46,14 +46,17 @@ its solutions using built-in libraries for analysis and visualization
 <summary><strong>PRELIM</strong></summary>
 
 #### Hands-on Activities
+- draft
 
 
 
 #### Seatwork
+- draft
 
 
 
 #### Laboratory Exam
+- draft
 
 
 </details>
@@ -62,14 +65,16 @@ its solutions using built-in libraries for analysis and visualization
 <summary><strong>MIDTERMS</strong></summary>
 
 #### Assignments
-
+- draft
 
 
 #### Hands-on Activities
+- draft
 
 
 
 #### Seatwork
+- draft
 
 
 
@@ -79,10 +84,12 @@ its solutions using built-in libraries for analysis and visualization
 <summary><strong>FINALS</strong></summary>
 
 #### Hands-on Activities
+- draft
 
 
 
 #### Final Project
+- draft
 
 
 
