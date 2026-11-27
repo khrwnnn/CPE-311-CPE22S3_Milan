@@ -1,2 +1,9 @@
-# CPE-311-CPE22S3_Milan
-Computational Thinking with Python Repository
+<div align="center">
+
+**Kherwin Emmanuel D. Milan**
+
+CPE22S3
+
+Technological Institute of the Philippines - Quezon City
+
+</div>
